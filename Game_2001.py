@@ -6,7 +6,7 @@ def cube_throw():
 
 def game_2001():
     """
-    function add random cube throws to user points and compute points
+    function add 2x diffrent dices throws to user points and computer points
     :return: point winner
     """
     user_points = 0
